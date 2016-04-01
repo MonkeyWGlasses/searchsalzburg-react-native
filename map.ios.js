@@ -5,7 +5,8 @@ var {
   StyleSheet,
   View,
   Text,
-  Component
+  Component,
+  MapView,
 } = React;
 
 var styles = StyleSheet.create({
@@ -14,35 +15,46 @@ var styles = StyleSheet.create({
     textAlign: 'center',
     color: '#FFFFFF'
   },
-  container: {
+  map: {
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: '#123456',
   }
 });
+//            showsUserLocation={true}
 
 class Map extends Component {
 
-  // _renderContent (color: string, pageText: string, num?: number) {
-  //   return (
-  //     <View style={[styles.tabContent, {backgroundColor: color}]}>
-  //       <MapView
-  //       style={styles.map}
-  //       region={this.state.mapRegion}
-  //       annotations={this.state.annotations}
-  //     />
-  //     </View>
-  //   );
-  // }
-  
+  constructor(props){
+    super(props);
+  }
+
+  loadMarkers(){
+    var markers = [];
+    var data = this.props.parkingData;
+
+    data.map(function(parkingLot) {
+      markers.push(
+        {
+          latitude: parkingLot.geometry.coordinates[1],
+          longitude: parkingLot.geometry.coordinates[0],
+          title: parkingLot.properties.ADRESSE,
+          subtitle: 'Anzahl: ' + parkingLot.properties.ANZAHL_PLAETZE,
+        })
+    });
+
+    return markers
+  }
+
   render() {
     return (
-      <View style={styles.container}>
-        <Text style={styles.description}>
-          Insert Map-View here!
-        </Text>
-      </View>
+      <MapView  style={styles.map}
+            showsUserLocation={true}
+            followUserLocation={true}
+            showsCompass={true}
+            annotations={this.loadMarkers()}
+      />
     );
   }
 }

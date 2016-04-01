@@ -1,18 +1,2091 @@
-{"type":"FeatureCollection","totalFeatures":102,
-    "features":[
-                {"type":"Feature","id":"behindertenstellplatz.28527",
-                  "geometry":{"type":"Point",
-                    "coordinates":[13.04301372941557,47.797557701451304]},
-                    "geometry_name":"GEOMETRIE",
-                    "properties":
-                      {"BEZEICHNUNG":"Behindertenparkplatz",
-                       "ADRESSE":"Toscaninihof 1",
-                       "STRASSE_ID":794,
-                       "HAUSNR":1,
-                       "HAUSNRA":null,
-                       "ANZAHL_PLAETZE":"3",
-                       "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>3,00m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
-                    }
-                },
-                
-                {"type":"Feature","id":"behindertenstellplatz.28529","geometry":{"type":"Point","coordinates":[13.024875482215505,47.796756278488864]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Weihergasse 2","STRASSE_ID":836,"HAUSNR":2,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28530","geometry":{"type":"Point","coordinates":[13.019309907616543,47.806602987005824]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Zaunergasse","STRASSE_ID":862,"HAUSNR":0,"HAUSNRA":"------","ANZAHL_PLAETZE":"2, am Ende der Straße Richtung Parkanlage","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,50m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28531","geometry":{"type":"Point","coordinates":[13.066275032737838,47.778505509021294]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Frohnburgweg 6","STRASSE_ID":946,"HAUSNR":6,"HAUSNRA":null,"ANZAHL_PLAETZE":"2, OG o.L.","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>schräg<\/i><br/>Breite <i>3,10m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28532","geometry":{"type":"Point","coordinates":[13.0518300001644,47.78519085566952]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Fürstenallee 45","STRASSE_ID":953,"HAUSNR":45,"HAUSNRA":null,"ANZAHL_PLAETZE":"4, eher nur 3","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,97m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28533","geometry":{"type":"Point","coordinates":[13.064409480819831,47.763400398782956]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Fürstenweg 33","STRASSE_ID":955,"HAUSNR":33,"HAUSNRA":null,"ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,80m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>ja<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28534","geometry":{"type":"Point","coordinates":[13.060185586481152,47.762065524378606]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Fürstenweg 37","STRASSE_ID":955,"HAUSNR":37,"HAUSNRA":null,"ANZAHL_PLAETZE":"3","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,50m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28535","geometry":{"type":"Point","coordinates":[13.041403588937158,47.82275963608099]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Jakob-Haringer-Straße 5a","STRASSE_ID":990,"HAUSNR":5,"HAUSNRA":"A","ANZAHL_PLAETZE":"7","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,87m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0-30m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28496","geometry":{"type":"Point","coordinates":[13.050555536761559,47.80605248756283]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Auerspergstraße 67","STRASSE_ID":63,"HAUSNR":67,"HAUSNRA":null,"ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,15m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28497","geometry":{"type":"Point","coordinates":[13.040185692242458,47.80665399574519]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Auerspergstraße 2","STRASSE_ID":63,"HAUSNR":2,"HAUSNRA":null,"ANZAHL_PLAETZE":"5","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,49m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>5-25m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28498","geometry":{"type":"Point","coordinates":[13.026892006010133,47.79951204133129]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Bayernstraße 18","STRASSE_ID":82,"HAUSNR":18,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,00m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28499","geometry":{"type":"Point","coordinates":[13.027129722322108,47.79938047205739]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Bayernstraße 18a","STRASSE_ID":82,"HAUSNR":18,"HAUSNRA":"A","ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,00m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28500","geometry":{"type":"Point","coordinates":[13.045790820394735,47.80327853575688]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Bergstraße 6","STRASSE_ID":90,"HAUSNR":6,"HAUSNRA":null,"ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28501","geometry":{"type":"Point","coordinates":[13.028384649908526,47.79356393251915]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Eduard-Herget-Straße 5","STRASSE_ID":125,"HAUSNR":5,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,00m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28502","geometry":{"type":"Point","coordinates":[13.074323119970275,47.81195871640867]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Eichstraße 43a","STRASSE_ID":132,"HAUSNR":43,"HAUSNRA":"A","ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,04m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28503","geometry":{"type":"Point","coordinates":[13.04198310609643,47.81049897318808]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Elisabethstraße 4","STRASSE_ID":134,"HAUSNR":4,"HAUSNRA":null,"ANZAHL_PLAETZE":"5, nicht abgegrenzt","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,9m+0,6m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28504","geometry":{"type":"Point","coordinates":[13.03787453722611,47.80783340041743]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Ernest-Thun-Straße 2","STRASSE_ID":147,"HAUSNR":2,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,30m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28505","geometry":{"type":"Point","coordinates":[13.043917188705482,47.806950455907774]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Faberstraße 9","STRASSE_ID":159,"HAUSNR":9,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,12m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>30m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28506","geometry":{"type":"Point","coordinates":[13.04525493458356,47.805222542793416]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Faberstraße 2a","STRASSE_ID":159,"HAUSNR":2,"HAUSNRA":"A","ANZAHL_PLAETZE":"3","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,00m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>20m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28507","geometry":{"type":"Point","coordinates":[13.043484154980657,47.80763018488073]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Faberstraße 15","STRASSE_ID":159,"HAUSNR":15,"HAUSNRA":null,"ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,01m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>10m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28508","geometry":{"type":"Point","coordinates":[13.051548245099879,47.80473465980636]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Glockengasse 6","STRASSE_ID":227,"HAUSNR":6,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,09m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>3m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28509","geometry":{"type":"Point","coordinates":[13.045540297446756,47.80906362483204]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Haydnstraße 26","STRASSE_ID":285,"HAUSNR":26,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,06m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>50m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28510","geometry":{"type":"Point","coordinates":[13.060795331668995,47.79851099643811]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Hermann-Bahr-Promenade 2","STRASSE_ID":297,"HAUSNR":2,"HAUSNRA":null,"ANZAHL_PLAETZE":"2, ggü. Eingang zum Schwimmbad","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,88m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>keinGehweg<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28511","geometry":{"type":"Point","coordinates":[13.037642997406655,47.81271104224113]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Josef-Mayburger-Kai 16","STRASSE_ID":359,"HAUSNR":16,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,03m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>PRIVAT<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28512","geometry":{"type":"Point","coordinates":[13.049316561248563,47.80451415444399]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Linzer Gasse 74","STRASSE_ID":475,"HAUSNR":74,"HAUSNRA":null,"ANZAHL_PLAETZE":"3","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28513","geometry":{"type":"Point","coordinates":[13.064647378502682,47.78643784783723]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Marx-Reichlich-Straße 15","STRASSE_ID":497,"HAUSNR":15,"HAUSNRA":null,"ANZAHL_PLAETZE":"2 Kennzeichengebunden S 999BR","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,10m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>ca. 30m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28514","geometry":{"type":"Point","coordinates":[13.056335931940607,47.82193358885315]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Meierhofweg 14","STRASSE_ID":508,"HAUSNR":14,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,00m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28515","geometry":{"type":"Point","coordinates":[13.07284172794153,47.81370642296795]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Minnesheimstraße 35","STRASSE_ID":545,"HAUSNR":35,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28516","geometry":{"type":"Point","coordinates":[13.049729191345294,47.80648393128438]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Paris-Lodron-Straße 21","STRASSE_ID":571,"HAUSNR":21,"HAUSNRA":null,"ANZAHL_PLAETZE":"1, nicht beschildert","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,20m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28517","geometry":{"type":"Point","coordinates":[13.047532258942985,47.79828865467553]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Residenzplatz 9","STRASSE_ID":638,"HAUSNR":9,"HAUSNRA":null,"ANZAHL_PLAETZE":"6","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>Ja<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28518","geometry":{"type":"Point","coordinates":[13.029883822432904,47.811163460139426]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Roseggerstraße 12","STRASSE_ID":655,"HAUSNR":12,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,50m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>10m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28519","geometry":{"type":"Point","coordinates":[13.030359231034122,47.79490209506309]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Sinnhubstraße 2","STRASSE_ID":697,"HAUSNR":2,"HAUSNRA":null,"ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,80m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28520","geometry":{"type":"Point","coordinates":[13.043539044413851,47.81385584044986]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Südtiroler Platz 8","STRASSE_ID":710,"HAUSNR":8,"HAUSNRA":null,"ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28521","geometry":{"type":"Point","coordinates":[13.038699567355259,47.81534810157236]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Sylvester-Oberberger-Straße","STRASSE_ID":711,"HAUSNR":0,"HAUSNRA":"------","ANZAHL_PLAETZE":"3, neben Landesbehindertenheim","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,70m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28522","geometry":{"type":"Point","coordinates":[13.058871229026188,47.80698304334845]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Schallmooser Hauptstraße 46","STRASSE_ID":713,"HAUSNR":46,"HAUSNRA":null,"ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28523","geometry":{"type":"Point","coordinates":[13.051345054306243,47.80522431913996]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Schallmooser Hauptstraße 10","STRASSE_ID":713,"HAUSNR":10,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>3,20m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28524","geometry":{"type":"Point","coordinates":[13.06650827190457,47.817394473667825]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Schillinghofstraße 29","STRASSE_ID":724,"HAUSNR":29,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,04m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28525","geometry":{"type":"Point","coordinates":[13.026858517524118,47.81269059446201]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Schumacherstraße 10","STRASSE_ID":740,"HAUSNR":10,"HAUSNRA":null,"ANZAHL_PLAETZE":"3 nicht ausgeschildert (abgeschafft)","ANMERKUNG_HTML":"nichts vorhanden"}},{"type":"Feature","id":"behindertenstellplatz.28568","geometry":{"type":"Point","coordinates":[13.042616937324052,47.80553780813689]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Mirabellplatz 4 - Schloß Mirabell","STRASSE_ID":546,"HAUSNR":4,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,70+0,80m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28748","geometry":{"type":"Point","coordinates":[13.051402202334412,47.8245192198333]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Zweigstraße","STRASSE_ID":872,"HAUSNR":0,"HAUSNRA":"------","ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28749","geometry":{"type":"Point","coordinates":[13.032599541554024,47.81498674412974]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Friesachstraße 2","STRASSE_ID":944,"HAUSNR":2,"HAUSNRA":null,"ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,04m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28750","geometry":{"type":"Point","coordinates":[13.032723134021682,47.816096006810284]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Schießstattstraße 44","STRASSE_ID":721,"HAUSNR":44,"HAUSNRA":null,"ANZAHL_PLAETZE":"1 markiert, 1 nicht markiert","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,10m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28751","geometry":{"type":"Point","coordinates":[13.026134305312812,47.80360308843852]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Danklstraße 13","STRASSE_ID":101,"HAUSNR":13,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28752","geometry":{"type":"Point","coordinates":[13.07359993817662,47.7802178346358]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Billrothstraße 4","STRASSE_ID":96,"HAUSNR":4,"HAUSNRA":null,"ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28753","geometry":{"type":"Point","coordinates":[13.06289055098382,47.78851395665931]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Michael-Pacher-Straße 25","STRASSE_ID":541,"HAUSNR":25,"HAUSNRA":null,"ANZAHL_PLAETZE":"1, nicht existent","ANMERKUNG_HTML":"nichts vorhanden"}},{"type":"Feature","id":"behindertenstellplatz.28754","geometry":{"type":"Point","coordinates":[13.060548327301074,47.7887511922896]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Hellbrunner Straße 34","STRASSE_ID":295,"HAUSNR":34,"HAUSNRA":null,"ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,93m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28755","geometry":{"type":"Point","coordinates":[13.0642924169304,47.79654518379003]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Aigner Straße 10","STRASSE_ID":18,"HAUSNR":10,"HAUSNRA":null,"ANZAHL_PLAETZE":"8, vor Finanzamt","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,20m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28756","geometry":{"type":"Point","coordinates":[13.050396490609415,47.796832522251464]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Kaigasse 41","STRASSE_ID":375,"HAUSNR":41,"HAUSNRA":null,"ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,85m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28757","geometry":{"type":"Point","coordinates":[13.048847675892173,47.797692065114695]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Kaigasse 8","STRASSE_ID":375,"HAUSNR":8,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,95m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28758","geometry":{"type":"Point","coordinates":[13.050071234356349,47.79865116423553]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Sebastian-Stief-Gasse 1","STRASSE_ID":682,"HAUSNR":1,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,07m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28759","geometry":{"type":"Point","coordinates":[13.049937753175282,47.79865083159092]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Sebastian-Stief-Gasse 1","STRASSE_ID":682,"HAUSNR":1,"HAUSNRA":null,"ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,07m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28760","geometry":{"type":"Point","coordinates":[13.04865595068114,47.7987897318445]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Mozartplatz 10","STRASSE_ID":967,"HAUSNR":10,"HAUSNRA":null,"ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i>>6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28761","geometry":{"type":"Point","coordinates":[13.042543740934079,47.79849233722007]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Max-Reinhardt-Platz","STRASSE_ID":504,"HAUSNR":0,"HAUSNRA":"------","ANZAHL_PLAETZE":"10","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,70m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28762","geometry":{"type":"Point","coordinates":[13.038379711560525,47.81021897158405]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Alois-Schmiedbauer-Straße 3","STRASSE_ID":1106,"HAUSNR":3,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%<2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28763","geometry":{"type":"Point","coordinates":[13.039013140413429,47.809157543815736]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Schwarzstraße 50","STRASSE_ID":746,"HAUSNR":50,"HAUSNRA":null,"ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,06m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%<2%<\/i><br/>Entfernung direkt-Umweg <i>10m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28764","geometry":{"type":"Point","coordinates":[13.038796643747022,47.80807142999155]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Ernest-Thun-Straße 4","STRASSE_ID":147,"HAUSNR":4,"HAUSNRA":null,"ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,27m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%>2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28765","geometry":{"type":"Point","coordinates":[13.042879464448612,47.80839671385228]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Markus-Sittikus-Straße 22","STRASSE_ID":495,"HAUSNR":22,"HAUSNRA":null,"ANZAHL_PLAETZE":"4","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>schräg<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%<2%<\/i><br/>Entfernung direkt-Umweg <i>0-10m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28766","geometry":{"type":"Point","coordinates":[13.043305008438866,47.808553392909324]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Faberstraße 22","STRASSE_ID":159,"HAUSNR":22,"HAUSNRA":null,"ANZAHL_PLAETZE":"3","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,96m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%>2%<\/i><br/>Entfernung direkt-Umweg <i>0-15m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28767","geometry":{"type":"Point","coordinates":[13.049075450212465,47.806067683762286]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Paris-Lodron-Straße 24","STRASSE_ID":571,"HAUSNR":24,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,18m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28768","geometry":{"type":"Point","coordinates":[13.045972212567957,47.80517758983575]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Paris-Lodron-Straße 7","STRASSE_ID":571,"HAUSNR":7,"HAUSNRA":null,"ANZAHL_PLAETZE":"3","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,06m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>30m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28769","geometry":{"type":"Point","coordinates":[13.048275566670851,47.80455831717229]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Wolf-Dietrich-Straße 3","STRASSE_ID":857,"HAUSNR":3,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28770","geometry":{"type":"Point","coordinates":[13.04206691850915,47.80121742662546]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Ferdinand-Hanusch-Platz","STRASSE_ID":169,"HAUSNR":0,"HAUSNRA":"------","ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,96m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%<2%<\/i><br/>Entfernung direkt-Umweg <i>15m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28771","geometry":{"type":"Point","coordinates":[13.04149276641476,47.80118641574742]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Franz-Josef-Kai 1","STRASSE_ID":925,"HAUSNR":1,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%<2%<\/i><br/>Entfernung direkt-Umweg <i>30m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28772","geometry":{"type":"Point","coordinates":[13.042026955792668,47.79873247040144]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Hofstallgasse 2","STRASSE_ID":315,"HAUSNR":2,"HAUSNRA":null,"ANZAHL_PLAETZE":"6","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m-30m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28777","geometry":{"type":"Point","coordinates":[13.041834275914841,47.8102323749979]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Elisabethstraße 2","STRASSE_ID":134,"HAUSNR":2,"HAUSNRA":null,"ANZAHL_PLAETZE":"neben Volksschule Ecke Pestalozzistraße","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,95m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%>2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.28826","geometry":{"type":"Point","coordinates":[13.034081247972555,47.797785477331104]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Fürstenbrunnstraße 8","STRASSE_ID":954,"HAUSNR":8,"HAUSNRA":null,"ANZAHL_PLAETZE":"ggü. Haus 8","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>schräg<\/i><br/>Breite <i>3,00m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i>>6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29019","geometry":{"type":"Point","coordinates":[13.049324840907286,47.804853242126086]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Franz-Josef-Straße 34","STRASSE_ID":926,"HAUSNR":34,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29020","geometry":{"type":"Point","coordinates":[13.017513038793922,47.818598254533036]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Lifarogasse 6","STRASSE_ID":469,"HAUSNR":6,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29021","geometry":{"type":"Point","coordinates":[13.000958745690243,47.81051425687013]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Etrichstraße 17","STRASSE_ID":158,"HAUSNR":17,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29022","geometry":{"type":"Point","coordinates":[13.004467722141044,47.81242663811511]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Auer-v.-Welsbach-Straße 2","STRASSE_ID":62,"HAUSNR":2,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,12m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29023","geometry":{"type":"Point","coordinates":[13.033053046062971,47.81389879222885]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Althofenstraße 1","STRASSE_ID":36,"HAUSNR":1,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,11m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29024","geometry":{"type":"Point","coordinates":[13.042612701845982,47.81512969705342]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Elisabethstraße 18","STRASSE_ID":134,"HAUSNR":18,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,12m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29025","geometry":{"type":"Point","coordinates":[13.043628735880338,47.81436152082858]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Fanny-von-Lehnert-Straße 1","STRASSE_ID":163,"HAUSNR":1,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29026","geometry":{"type":"Point","coordinates":[13.054110241218599,47.79732917013507]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Franz-Hinterholzer-Kai 2","STRASSE_ID":188,"HAUSNR":2,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29027","geometry":{"type":"Point","coordinates":[13.021487987572552,47.82710205502984]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Franztalstraße 4","STRASSE_ID":934,"HAUSNR":4,"HAUSNRA":null,"ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29028","geometry":{"type":"Point","coordinates":[13.074872599835766,47.789604020113615]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Guggenbichlerstraße 6","STRASSE_ID":708,"HAUSNR":6,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>212cm??<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>Str.mitte<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29029","geometry":{"type":"Point","coordinates":[13.045406789640685,47.809063286864166]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Haydnstraße 26","STRASSE_ID":285,"HAUSNR":26,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"nichts vorhanden"}},{"type":"Feature","id":"behindertenstellplatz.29030","geometry":{"type":"Point","coordinates":[13.0595499912975,47.791607933880655]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Hellbrunner Straße 26","STRASSE_ID":295,"HAUSNR":26,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,12m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29031","geometry":{"type":"Point","coordinates":[13.070291693087245,47.8170111656833]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Linzer Bundesstraße 49 A","STRASSE_ID":474,"HAUSNR":49,"HAUSNRA":"A","ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,2m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29032","geometry":{"type":"Point","coordinates":[13.040538207984335,47.80763073291202]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Markus-Sittikus-Straße 10","STRASSE_ID":495,"HAUSNR":10,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,12m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29033","geometry":{"type":"Point","coordinates":[13.05964468535144,47.80714679711953]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Schallmooser Hauptstraße 48","STRASSE_ID":713,"HAUSNR":48,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29034","geometry":{"type":"Point","coordinates":[13.054393852283205,47.80624994083301]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Schallmooser Hauptstraße 30 A","STRASSE_ID":713,"HAUSNR":30,"HAUSNRA":"A","ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29035","geometry":{"type":"Point","coordinates":[13.032760280648525,47.81590813447532]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Schießstattstraße 42","STRASSE_ID":721,"HAUSNR":42,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,11m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29036","geometry":{"type":"Point","coordinates":[13.026666185480433,47.81177990270512]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Schumacherstraße 2","STRASSE_ID":740,"HAUSNR":2,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,0m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29037","geometry":{"type":"Point","coordinates":[13.038136260126176,47.80264194789959]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Ursulinenplatz 5","STRASSE_ID":810,"HAUSNR":5,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29038","geometry":{"type":"Point","coordinates":[13.031835490752336,47.81453323276551]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Friesachstraße 11","STRASSE_ID":944,"HAUSNR":11,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29039","geometry":{"type":"Point","coordinates":[13.024203106081103,47.81293343909095]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"General-Arnold-Straße 7","STRASSE_ID":205,"HAUSNR":7,"HAUSNRA":null,"ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29040","geometry":{"type":"Point","coordinates":[13.04956886936925,47.78618265208166]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Hans-Pfitzner-Straße 1","STRASSE_ID":274,"HAUSNR":1,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29041","geometry":{"type":"Point","coordinates":[13.013514064734366,47.83946795738169]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Schmiedingerstraße 180","STRASSE_ID":733,"HAUSNR":180,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29042","geometry":{"type":"Point","coordinates":[13.0120831274199,47.80183477792549]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Moserstraße 25A","STRASSE_ID":964,"HAUSNR":25,"HAUSNRA":"A","ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29043","geometry":{"type":"Point","coordinates":[13.02661408990626,47.81113220790014]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Rudolf-Biebl-Straße 44","STRASSE_ID":662,"HAUSNR":44,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,12m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29044","geometry":{"type":"Point","coordinates":[13.050077486685565,47.80835911064417]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Gabelsbergerstraße 28","STRASSE_ID":192,"HAUSNR":28,"HAUSNRA":null,"ANZAHL_PLAETZE":"2","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29045","geometry":{"type":"Point","coordinates":[13.046014887906331,47.80743964273396]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Franz-Josef-Straße 17a","STRASSE_ID":926,"HAUSNR":17,"HAUSNRA":"A","ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,12m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29050","geometry":{"type":"Point","coordinates":[12.999768520678868,47.809390146746786]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Hermann-Köhl-Straße 3","STRASSE_ID":298,"HAUSNR":3,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29051","geometry":{"type":"Point","coordinates":[13.045360762252116,47.80506182148306]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Faberstraße 2","STRASSE_ID":159,"HAUSNR":2,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,12m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29052","geometry":{"type":"Point","coordinates":[13.001402693385367,47.80955591189745]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Graf-Zeppelin-Platz 12","STRASSE_ID":248,"HAUSNR":12,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29053","geometry":{"type":"Point","coordinates":[13.074370813577742,47.80467113926307]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Hugo-v.-Hofmannsthal-Straße 34","STRASSE_ID":322,"HAUSNR":34,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}},{"type":"Feature","id":"behindertenstellplatz.29054","geometry":{"type":"Point","coordinates":[12.998913160102292,47.80829039196899]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Siezenheimer Straße 80","STRASSE_ID":695,"HAUSNR":80,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"nichts vorhanden"}},{"type":"Feature","id":"behindertenstellplatz.29056","geometry":{"type":"Point","coordinates":[13.00082523473222,47.8105138670447]},"geometry_name":"GEOMETRIE","properties":{"BEZEICHNUNG":"Behindertenparkplatz","ADRESSE":"Etrichstraße 19","STRASSE_ID":158,"HAUSNR":17,"HAUSNRA":null,"ANZAHL_PLAETZE":"1","ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"}}],"crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:EPSG::4326"}}}
+{
+  "type":"FeatureCollection",
+  "totalFeatures":102,
+  "features":[
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28527",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.04301372941557,
+          47.797557701451304
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Toscaninihof 1",
+        "STRASSE_ID":794,
+        "HAUSNR":1,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"3",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>3,00m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28529",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.024875482215505,
+          47.796756278488864
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Weihergasse 2",
+        "STRASSE_ID":836,
+        "HAUSNR":2,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28530",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.019309907616543,
+          47.806602987005824
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Zaunergasse",
+        "STRASSE_ID":862,
+        "HAUSNR":0,
+        "HAUSNRA":"------",
+        "ANZAHL_PLAETZE":"2, am Ende der Straße Richtung Parkanlage",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,50m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28531",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.066275032737838,
+          47.778505509021294
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Frohnburgweg 6",
+        "STRASSE_ID":946,
+        "HAUSNR":6,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2, OG o.L.",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>schräg<\/i><br/>Breite <i>3,10m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28532",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.0518300001644,
+          47.78519085566952
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Fürstenallee 45",
+        "STRASSE_ID":953,
+        "HAUSNR":45,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"4, eher nur 3",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,97m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28533",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.064409480819831,
+          47.763400398782956
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Fürstenweg 33",
+        "STRASSE_ID":955,
+        "HAUSNR":33,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,80m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>ja<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28534",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.060185586481152,
+          47.762065524378606
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Fürstenweg 37",
+        "STRASSE_ID":955,
+        "HAUSNR":37,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"3",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,50m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28535",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.041403588937158,
+          47.82275963608099
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Jakob-Haringer-Straße 5a",
+        "STRASSE_ID":990,
+        "HAUSNR":5,
+        "HAUSNRA":"A",
+        "ANZAHL_PLAETZE":"7",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,87m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0-30m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28496",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.050555536761559,
+          47.80605248756283
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Auerspergstraße 67",
+        "STRASSE_ID":63,
+        "HAUSNR":67,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,15m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28497",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.040185692242458,
+          47.80665399574519
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Auerspergstraße 2",
+        "STRASSE_ID":63,
+        "HAUSNR":2,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"5",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,49m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>5-25m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28498",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.026892006010133,
+          47.79951204133129
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Bayernstraße 18",
+        "STRASSE_ID":82,
+        "HAUSNR":18,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,00m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28499",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.027129722322108,
+          47.79938047205739
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Bayernstraße 18a",
+        "STRASSE_ID":82,
+        "HAUSNR":18,
+        "HAUSNRA":"A",
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,00m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28500",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.045790820394735,
+          47.80327853575688
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Bergstraße 6",
+        "STRASSE_ID":90,
+        "HAUSNR":6,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28501",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.028384649908526,
+          47.79356393251915
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Eduard-Herget-Straße 5",
+        "STRASSE_ID":125,
+        "HAUSNR":5,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,00m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28502",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.074323119970275,
+          47.81195871640867
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Eichstraße 43a",
+        "STRASSE_ID":132,
+        "HAUSNR":43,
+        "HAUSNRA":"A",
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,04m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28503",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.04198310609643,
+          47.81049897318808
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Elisabethstraße 4",
+        "STRASSE_ID":134,
+        "HAUSNR":4,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"5, nicht abgegrenzt",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,9m+0,6m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28504",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.03787453722611,
+          47.80783340041743
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Ernest-Thun-Straße 2",
+        "STRASSE_ID":147,
+        "HAUSNR":2,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,30m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28505",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.043917188705482,
+          47.806950455907774
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Faberstraße 9",
+        "STRASSE_ID":159,
+        "HAUSNR":9,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,12m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>30m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28506",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.04525493458356,
+          47.805222542793416
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Faberstraße 2a",
+        "STRASSE_ID":159,
+        "HAUSNR":2,
+        "HAUSNRA":"A",
+        "ANZAHL_PLAETZE":"3",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,00m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>20m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28507",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.043484154980657,
+          47.80763018488073
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Faberstraße 15",
+        "STRASSE_ID":159,
+        "HAUSNR":15,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,01m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>10m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28508",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.051548245099879,
+          47.80473465980636
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Glockengasse 6",
+        "STRASSE_ID":227,
+        "HAUSNR":6,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,09m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>3m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28509",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.045540297446756,
+          47.80906362483204
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Haydnstraße 26",
+        "STRASSE_ID":285,
+        "HAUSNR":26,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,06m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>50m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28510",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.060795331668995,
+          47.79851099643811
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Hermann-Bahr-Promenade 2",
+        "STRASSE_ID":297,
+        "HAUSNR":2,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2, ggü. Eingang zum Schwimmbad",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,88m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>keinGehweg<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28511",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.037642997406655,
+          47.81271104224113
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Josef-Mayburger-Kai 16",
+        "STRASSE_ID":359,
+        "HAUSNR":16,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,03m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>PRIVAT<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28512",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.049316561248563,
+          47.80451415444399
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Linzer Gasse 74",
+        "STRASSE_ID":475,
+        "HAUSNR":74,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"3",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28513",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.064647378502682,
+          47.78643784783723
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Marx-Reichlich-Straße 15",
+        "STRASSE_ID":497,
+        "HAUSNR":15,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2 Kennzeichengebunden S 999BR",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,10m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>ca. 30m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28514",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.056335931940607,
+          47.82193358885315
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Meierhofweg 14",
+        "STRASSE_ID":508,
+        "HAUSNR":14,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,00m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28515",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.07284172794153,
+          47.81370642296795
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Minnesheimstraße 35",
+        "STRASSE_ID":545,
+        "HAUSNR":35,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28516",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.049729191345294,
+          47.80648393128438
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Paris-Lodron-Straße 21",
+        "STRASSE_ID":571,
+        "HAUSNR":21,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1, nicht beschildert",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,20m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28517",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.047532258942985,
+          47.79828865467553
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Residenzplatz 9",
+        "STRASSE_ID":638,
+        "HAUSNR":9,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"6",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>Ja<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28518",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.029883822432904,
+          47.811163460139426
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Roseggerstraße 12",
+        "STRASSE_ID":655,
+        "HAUSNR":12,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,50m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>10m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28519",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.030359231034122,
+          47.79490209506309
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Sinnhubstraße 2",
+        "STRASSE_ID":697,
+        "HAUSNR":2,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,80m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28520",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.043539044413851,
+          47.81385584044986
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Südtiroler Platz 8",
+        "STRASSE_ID":710,
+        "HAUSNR":8,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28521",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.038699567355259,
+          47.81534810157236
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Sylvester-Oberberger-Straße",
+        "STRASSE_ID":711,
+        "HAUSNR":0,
+        "HAUSNRA":"------",
+        "ANZAHL_PLAETZE":"3, neben Landesbehindertenheim",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,70m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28522",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.058871229026188,
+          47.80698304334845
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Schallmooser Hauptstraße 46",
+        "STRASSE_ID":713,
+        "HAUSNR":46,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28523",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.051345054306243,
+          47.80522431913996
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Schallmooser Hauptstraße 10",
+        "STRASSE_ID":713,
+        "HAUSNR":10,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>3,20m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28524",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.06650827190457,
+          47.817394473667825
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Schillinghofstraße 29",
+        "STRASSE_ID":724,
+        "HAUSNR":29,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,04m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28525",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.026858517524118,
+          47.81269059446201
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Schumacherstraße 10",
+        "STRASSE_ID":740,
+        "HAUSNR":10,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"3 nicht ausgeschildert (abgeschafft)",
+        "ANMERKUNG_HTML":"nichts vorhanden"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28568",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.042616937324052,
+          47.80553780813689
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Mirabellplatz 4 - Schloß Mirabell",
+        "STRASSE_ID":546,
+        "HAUSNR":4,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,70+0,80m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28748",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.051402202334412,
+          47.8245192198333
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Zweigstraße",
+        "STRASSE_ID":872,
+        "HAUSNR":0,
+        "HAUSNRA":"------",
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28749",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.032599541554024,
+          47.81498674412974
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Friesachstraße 2",
+        "STRASSE_ID":944,
+        "HAUSNR":2,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,04m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28750",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.032723134021682,
+          47.816096006810284
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Schießstattstraße 44",
+        "STRASSE_ID":721,
+        "HAUSNR":44,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1 markiert, 1 nicht markiert",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,10m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28751",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.026134305312812,
+          47.80360308843852
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Danklstraße 13",
+        "STRASSE_ID":101,
+        "HAUSNR":13,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28752",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.07359993817662,
+          47.7802178346358
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Billrothstraße 4",
+        "STRASSE_ID":96,
+        "HAUSNR":4,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28753",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.06289055098382,
+          47.78851395665931
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Michael-Pacher-Straße 25",
+        "STRASSE_ID":541,
+        "HAUSNR":25,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1, nicht existent",
+        "ANMERKUNG_HTML":"nichts vorhanden"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28754",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.060548327301074,
+          47.7887511922896
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Hellbrunner Straße 34",
+        "STRASSE_ID":295,
+        "HAUSNR":34,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,93m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28755",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.0642924169304,
+          47.79654518379003
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Aigner Straße 10",
+        "STRASSE_ID":18,
+        "HAUSNR":10,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"8, vor Finanzamt",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,20m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28756",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.050396490609415,
+          47.796832522251464
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Kaigasse 41",
+        "STRASSE_ID":375,
+        "HAUSNR":41,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,85m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28757",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.048847675892173,
+          47.797692065114695
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Kaigasse 8",
+        "STRASSE_ID":375,
+        "HAUSNR":8,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,95m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28758",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.050071234356349,
+          47.79865116423553
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Sebastian-Stief-Gasse 1",
+        "STRASSE_ID":682,
+        "HAUSNR":1,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,07m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28759",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.049937753175282,
+          47.79865083159092
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Sebastian-Stief-Gasse 1",
+        "STRASSE_ID":682,
+        "HAUSNR":1,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,07m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28760",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.04865595068114,
+          47.7987897318445
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Mozartplatz 10",
+        "STRASSE_ID":967,
+        "HAUSNR":10,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i>>6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28761",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.042543740934079,
+          47.79849233722007
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Max-Reinhardt-Platz",
+        "STRASSE_ID":504,
+        "HAUSNR":0,
+        "HAUSNRA":"------",
+        "ANZAHL_PLAETZE":"10",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,70m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28762",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.038379711560525,
+          47.81021897158405
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Alois-Schmiedbauer-Straße 3",
+        "STRASSE_ID":1106,
+        "HAUSNR":3,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%<2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28763",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.039013140413429,
+          47.809157543815736
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Schwarzstraße 50",
+        "STRASSE_ID":746,
+        "HAUSNR":50,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,06m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%<2%<\/i><br/>Entfernung direkt-Umweg <i>10m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28764",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.038796643747022,
+          47.80807142999155
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Ernest-Thun-Straße 4",
+        "STRASSE_ID":147,
+        "HAUSNR":4,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,27m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%>2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28765",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.042879464448612,
+          47.80839671385228
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Markus-Sittikus-Straße 22",
+        "STRASSE_ID":495,
+        "HAUSNR":22,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"4",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>schräg<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%<2%<\/i><br/>Entfernung direkt-Umweg <i>0-10m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28766",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.043305008438866,
+          47.808553392909324
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Faberstraße 22",
+        "STRASSE_ID":159,
+        "HAUSNR":22,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"3",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,96m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%>2%<\/i><br/>Entfernung direkt-Umweg <i>0-15m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28767",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.049075450212465,
+          47.806067683762286
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Paris-Lodron-Straße 24",
+        "STRASSE_ID":571,
+        "HAUSNR":24,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,18m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28768",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.045972212567957,
+          47.80517758983575
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Paris-Lodron-Straße 7",
+        "STRASSE_ID":571,
+        "HAUSNR":7,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"3",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,06m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>30m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28769",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.048275566670851,
+          47.80455831717229
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Wolf-Dietrich-Straße 3",
+        "STRASSE_ID":857,
+        "HAUSNR":3,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28770",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.04206691850915,
+          47.80121742662546
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Ferdinand-Hanusch-Platz",
+        "STRASSE_ID":169,
+        "HAUSNR":0,
+        "HAUSNRA":"------",
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,96m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%<2%<\/i><br/>Entfernung direkt-Umweg <i>15m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28771",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.04149276641476,
+          47.80118641574742
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Franz-Josef-Kai 1",
+        "STRASSE_ID":925,
+        "HAUSNR":1,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%<2%<\/i><br/>Entfernung direkt-Umweg <i>30m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28772",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.042026955792668,
+          47.79873247040144
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Hofstallgasse 2",
+        "STRASSE_ID":315,
+        "HAUSNR":2,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"6",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m-30m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28777",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.041834275914841,
+          47.8102323749979
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Elisabethstraße 2",
+        "STRASSE_ID":134,
+        "HAUSNR":2,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"neben Volksschule Ecke Pestalozzistraße",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>1,95m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%>2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.28826",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.034081247972555,
+          47.797785477331104
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Fürstenbrunnstraße 8",
+        "STRASSE_ID":954,
+        "HAUSNR":8,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"ggü. Haus 8",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>schräg<\/i><br/>Breite <i>3,00m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i>>6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>5m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29019",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.049324840907286,
+          47.804853242126086
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Franz-Josef-Straße 34",
+        "STRASSE_ID":926,
+        "HAUSNR":34,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29020",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.017513038793922,
+          47.818598254533036
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Lifarogasse 6",
+        "STRASSE_ID":469,
+        "HAUSNR":6,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29021",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.000958745690243,
+          47.81051425687013
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Etrichstraße 17",
+        "STRASSE_ID":158,
+        "HAUSNR":17,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29022",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.004467722141044,
+          47.81242663811511
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Auer-v.-Welsbach-Straße 2",
+        "STRASSE_ID":62,
+        "HAUSNR":2,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,12m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29023",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.033053046062971,
+          47.81389879222885
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Althofenstraße 1",
+        "STRASSE_ID":36,
+        "HAUSNR":1,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,11m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29024",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.042612701845982,
+          47.81512969705342
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Elisabethstraße 18",
+        "STRASSE_ID":134,
+        "HAUSNR":18,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,12m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29025",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.043628735880338,
+          47.81436152082858
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Fanny-von-Lehnert-Straße 1",
+        "STRASSE_ID":163,
+        "HAUSNR":1,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29026",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.054110241218599,
+          47.79732917013507
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Franz-Hinterholzer-Kai 2",
+        "STRASSE_ID":188,
+        "HAUSNR":2,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29027",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.021487987572552,
+          47.82710205502984
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Franztalstraße 4",
+        "STRASSE_ID":934,
+        "HAUSNR":4,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29028",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.074872599835766,
+          47.789604020113615
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Guggenbichlerstraße 6",
+        "STRASSE_ID":708,
+        "HAUSNR":6,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>212cm??<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>Str.mitte<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29029",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.045406789640685,
+          47.809063286864166
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Haydnstraße 26",
+        "STRASSE_ID":285,
+        "HAUSNR":26,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"nichts vorhanden"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29030",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.0595499912975,
+          47.791607933880655
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Hellbrunner Straße 26",
+        "STRASSE_ID":295,
+        "HAUSNR":26,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,12m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29031",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.070291693087245,
+          47.8170111656833
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Linzer Bundesstraße 49 A",
+        "STRASSE_ID":474,
+        "HAUSNR":49,
+        "HAUSNRA":"A",
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,2m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29032",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.040538207984335,
+          47.80763073291202
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Markus-Sittikus-Straße 10",
+        "STRASSE_ID":495,
+        "HAUSNR":10,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,12m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29033",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.05964468535144,
+          47.80714679711953
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Schallmooser Hauptstraße 48",
+        "STRASSE_ID":713,
+        "HAUSNR":48,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29034",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.054393852283205,
+          47.80624994083301
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Schallmooser Hauptstraße 30 A",
+        "STRASSE_ID":713,
+        "HAUSNR":30,
+        "HAUSNRA":"A",
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29035",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.032760280648525,
+          47.81590813447532
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Schießstattstraße 42",
+        "STRASSE_ID":721,
+        "HAUSNR":42,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,11m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29036",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.026666185480433,
+          47.81177990270512
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Schumacherstraße 2",
+        "STRASSE_ID":740,
+        "HAUSNR":2,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,0m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29037",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.038136260126176,
+          47.80264194789959
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Ursulinenplatz 5",
+        "STRASSE_ID":810,
+        "HAUSNR":5,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29038",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.031835490752336,
+          47.81453323276551
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Friesachstraße 11",
+        "STRASSE_ID":944,
+        "HAUSNR":11,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29039",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.024203106081103,
+          47.81293343909095
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"General-Arnold-Straße 7",
+        "STRASSE_ID":205,
+        "HAUSNR":7,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29040",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.04956886936925,
+          47.78618265208166
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Hans-Pfitzner-Straße 1",
+        "STRASSE_ID":274,
+        "HAUSNR":1,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29041",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.013514064734366,
+          47.83946795738169
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Schmiedingerstraße 180",
+        "STRASSE_ID":733,
+        "HAUSNR":180,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29042",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.0120831274199,
+          47.80183477792549
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Moserstraße 25A",
+        "STRASSE_ID":964,
+        "HAUSNR":25,
+        "HAUSNRA":"A",
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29043",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.02661408990626,
+          47.81113220790014
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Rudolf-Biebl-Straße 44",
+        "STRASSE_ID":662,
+        "HAUSNR":44,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,12m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29044",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.050077486685565,
+          47.80835911064417
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Gabelsbergerstraße 28",
+        "STRASSE_ID":192,
+        "HAUSNR":28,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"2",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29045",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.046014887906331,
+          47.80743964273396
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Franz-Josef-Straße 17a",
+        "STRASSE_ID":926,
+        "HAUSNR":17,
+        "HAUSNRA":"A",
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,12m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29050",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.999768520678868,
+          47.809390146746786
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Hermann-Köhl-Straße 3",
+        "STRASSE_ID":298,
+        "HAUSNR":3,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29051",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.045360762252116,
+          47.80506182148306
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Faberstraße 2",
+        "STRASSE_ID":159,
+        "HAUSNR":2,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>2,12m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29052",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.001402693385367,
+          47.80955591189745
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Graf-Zeppelin-Platz 12",
+        "STRASSE_ID":248,
+        "HAUSNR":12,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29053",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.074370813577742,
+          47.80467113926307
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Hugo-v.-Hofmannsthal-Straße 34",
+        "STRASSE_ID":322,
+        "HAUSNR":34,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29054",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          12.998913160102292,
+          47.80829039196899
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Siezenheimer Straße 80",
+        "STRASSE_ID":695,
+        "HAUSNR":80,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"nichts vorhanden"
+      }
+    },
+    {
+      "type":"Feature",
+      "id":"behindertenstellplatz.29056",
+      "geometry":{
+        "type":"Point",
+        "coordinates":[
+          13.00082523473222,
+          47.8105138670447
+        ]
+      },
+      "geometry_name":"GEOMETRIE",
+      "properties":{
+        "description":"Behindertenparkplatz",
+        "ADRESSE":"Etrichstraße 19",
+        "STRASSE_ID":158,
+        "HAUSNR":17,
+        "HAUSNRA":null,
+        "ANZAHL_PLAETZE":"1",
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+      }
+    }
+  ],
+  "crs":{
+    "type":"name",
+    "properties":{
+      "name":"urn:ogc:def:crs:EPSG::4326"
+    }
+  }
+}
