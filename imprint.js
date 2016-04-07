@@ -27,7 +27,8 @@ class Imprint extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.description}>
-          Insert Imprint-View here!
+          Entwickler:
+          Simon HintersonnleitnerTESTESTEST
         </Text>
       </View>
     );

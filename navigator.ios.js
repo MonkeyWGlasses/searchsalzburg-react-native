@@ -10,7 +10,8 @@ var {
 } = React;
 
 
-var List = require('./list.ios');
+var List = require('./list');
+var Detail = require('./detail');
 
 var styles = StyleSheet.create({
   navigator: {
@@ -20,18 +21,17 @@ var styles = StyleSheet.create({
 
 class Navigator extends React.Component {
 
-    constructor (props) {
-        super(props);
-        this.state = {
-          navigationBarHidden: false,
-        };
-    }
 
-    toggleNavBar() {
-      this.setState({
-        navigationBarHidden: !this.state.navigationBarHidden
-      });
-    }
+   onForward(currentParkingSpace){
+     this.refs['nav'].push({
+       title: currentParkingSpace.properties.ADRESSE,
+       component: Detail,
+       passProps:{
+         currentParkingSpace: currentParkingSpace,
+       }
+   })
+ }
+
 
     render() {
       return (
@@ -42,13 +42,16 @@ class Navigator extends React.Component {
             title: 'List',
             component: List,
             passProps:{
-              toggleNavBar: this.toggleNavBar.bind(this),
               parkingData: this.props.parkingData,
+              currentOS: 'iOS',
+              onForward: (currentParkingSpace) => { this.onForward(currentParkingSpace) },
             }
           }}
           />
       );
     }
   }
+
+
 
   module.exports = Navigator;

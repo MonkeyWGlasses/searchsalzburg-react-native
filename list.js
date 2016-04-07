@@ -13,11 +13,11 @@ var {
 } = React;
 
 
-var TableView = require('react-native-tableview');
-var Section = TableView.Section;
-var Item = TableView.Item;
+// var TableView = require('react-native-tableview');
+// var Section = TableView.Section;
+// var Item = TableView.Item;
+var detail = require('./detail');
 
-var detail = require('./detail.ios');
 
 var styles = StyleSheet.create({
   rowContainer: {
@@ -42,31 +42,43 @@ var styles = StyleSheet.create({
     backgroundColor: '#F5FCFF',
 }, });
 
-var ds = new ListView.DataSource({rowHasChanged: (r1, r2) => r1 !== r2});
 
 class List extends React.Component{
 
   constructor (props) {
+      var ds = new ListView.DataSource({rowHasChanged: (r1, r2) => r1 !== r2});
       super(props);
-      this.handleChangePage = this.handleChangePage.bind(this);
       this.renderRow = this.renderRow.bind(this);
       this.state = {
         dataSource: ds.cloneWithRows(this.props.parkingData),
         currentIndex: 0,
+        currentOS: this.props.currentOS,
       }
   }
-
-  handleChangePage(rowData) {
-    this.props.toggleNavBar();
-    this.props.navigator.push({
-      title: rowData.properties.ADRESSE,
-      component: detail,
-      passProps:{
-        toggleNavBar: this.props.toggleNavBar,
-        currentParkingSpace: rowData,
-      }
-    })
-  }
+  //
+  // handleChangePageAndroid(rowData) {
+  //   this.props.onForward(rowData);
+  // }
+  //
+  // handleChangePageIOS(rowData) {
+  //   this.props.navigator.push({
+  //     title: rowData.properties.ADRESSE,
+  //     component: detail,
+  //     passProps:{
+  //       toggleNavBar: this.props.toggleNavBar,
+  //       currentParkingSpace: rowData,
+  //     }
+  //   })
+  // }
+  //
+  // handleChangePage(rowData) {
+  //   if(this.state.currentOS == "android"){
+  //     return this.handleChangePageAndroid(rowData)
+  //   } else {
+  //     return this.handleChangePageIOS(rowData)
+  //   }
+  // }
+  //
 
   render() {
     return (
@@ -79,7 +91,7 @@ class List extends React.Component{
 
   renderRow(rowData){
     return (
-      <TouchableHighlight underlayColor='#D9D9D9' onPress={ () => this.handleChangePage(rowData) }>
+      <TouchableHighlight underlayColor='#D9D9D9' onPress={ () => this.props.onForward(rowData) }>
         <View style={styles.rowContainer}>
           <Text style={styles.title}>{rowData.properties.ADRESSE}</Text>
           <Text style={styles.subtitle}>Anzahl {rowData.properties.ANZAHL_PLAETZE}</Text>

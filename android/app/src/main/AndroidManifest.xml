@@ -2,12 +2,16 @@
     package="com.searchsalzburg_new">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
 
     <application
       android:allowBackup="true"
       android:label="@string/app_name"
       android:icon="@mipmap/ic_launcher"
       android:theme="@style/AppTheme">
+      <meta-data
+        android:name="com.google.android.geo.API_KEY"
+        android:value="AIzaSyB4p6MpNjgXaqRHHoSbwp05aU8Zj9ldj58"/>
       <activity
         android:name=".MainActivity"
         android:label="@string/app_name"

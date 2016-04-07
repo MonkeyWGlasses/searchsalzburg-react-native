@@ -7,12 +7,11 @@ import React, {
   AppRegistry,
   Component,
   TabBarIOS,
-  Image,
 } from 'react-native';
 
-var Map = require('./map.ios');
+var Map = require('./map');
 var Navigator = require('./navigator.ios');
-var Imprint = require('./imprint.ios');
+var Imprint = require('./imprint');
 
 var data = require('./liste.json')
 
@@ -32,18 +31,18 @@ class searchsalzburg_new extends Component {
           <TabBarIOS.Item
             parkingData={this.state.data}
             selected={this.state.selectedTab === 'map'}
-            icon={require('./images/852-map.png')}
+            icon={require('./images/map.png')}
             title="Map"
             onPress={() => {
                 this.setState({
                     selectedTab: 'map',
                 });
             }}>
-            <Map parkingData={this.state.parkingData} />
+            <Map parkingData={this.state.parkingData} followUserLocation={true}/>
           </TabBarIOS.Item>
           <TabBarIOS.Item
             selected={this.state.selectedTab === 'list'}
-            icon={require('./images/854-list.png')}
+            icon={require('./images/list.png')}
             title="List"
             onPress={() => {
                   this.setState({
@@ -54,7 +53,7 @@ class searchsalzburg_new extends Component {
           </TabBarIOS.Item>
           <TabBarIOS.Item
             selected={this.state.selectedTab === 'imprint'}
-            icon={require('./images/724-info.png')}
+            icon={require('./images/info.png')}
             title="Impressum"
             onPress={() => {
                   this.setState({
