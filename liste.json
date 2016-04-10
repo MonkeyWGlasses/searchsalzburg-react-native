@@ -62,7 +62,7 @@
         "HAUSNR":0,
         "HAUSNRA":"------",
         "ANZAHL_PLAETZE":"2, am Ende der Straße Richtung Parkanlage",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,50m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>2,50m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
       }
     },
     {
@@ -125,7 +125,7 @@
         "HAUSNR":33,
         "HAUSNRA":null,
         "ANZAHL_PLAETZE":"2",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,80m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>ja<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>2,80m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>ja<\/i><br>"
       }
     },
     {
@@ -146,7 +146,7 @@
         "HAUSNR":37,
         "HAUSNRA":null,
         "ANZAHL_PLAETZE":"3",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,50m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>3,50m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
       }
     },
     {
@@ -293,7 +293,7 @@
         "HAUSNR":5,
         "HAUSNRA":null,
         "ANZAHL_PLAETZE":"1",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,00m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>3,00m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
       }
     },
     {
@@ -629,7 +629,7 @@
         "HAUSNR":9,
         "HAUSNRA":null,
         "ANZAHL_PLAETZE":"6",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>Ja<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>Ja<\/i><br>"
       }
     },
     {
@@ -818,7 +818,7 @@
         "HAUSNR":4,
         "HAUSNRA":null,
         "ANZAHL_PLAETZE":"1",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,70+0,80m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>2,70+0,80m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
       }
     },
     {
@@ -986,7 +986,7 @@
         "HAUSNR":10,
         "HAUSNRA":null,
         "ANZAHL_PLAETZE":"8, vor Finanzamt",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,20m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>3,20m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
       }
     },
     {
@@ -1091,7 +1091,7 @@
         "HAUSNR":10,
         "HAUSNRA":null,
         "ANZAHL_PLAETZE":"2",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i>>6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i>>6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
       }
     },
     {
@@ -1112,7 +1112,7 @@
         "HAUSNR":0,
         "HAUSNRA":"------",
         "ANZAHL_PLAETZE":"10",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,70m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>2,70m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
       }
     },
     {
@@ -1406,7 +1406,7 @@
         "HAUSNR":34,
         "HAUSNRA":null,
         "ANZAHL_PLAETZE":"1",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>3,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
       }
     },
     {
@@ -1427,7 +1427,7 @@
         "HAUSNR":6,
         "HAUSNRA":null,
         "ANZAHL_PLAETZE":"1",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
       }
     },
     {
@@ -1448,7 +1448,7 @@
         "HAUSNR":17,
         "HAUSNRA":null,
         "ANZAHL_PLAETZE":"1",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
       }
     },
     {
@@ -1721,7 +1721,7 @@
         "HAUSNR":30,
         "HAUSNRA":"A",
         "ANZAHL_PLAETZE":"2",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
       }
     },
     {
@@ -1763,7 +1763,7 @@
         "HAUSNR":2,
         "HAUSNRA":null,
         "ANZAHL_PLAETZE":"1",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,0m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>3,0m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
       }
     },
     {
@@ -1784,7 +1784,7 @@
         "HAUSNR":5,
         "HAUSNRA":null,
         "ANZAHL_PLAETZE":"1",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
       }
     },
     {
@@ -1826,7 +1826,7 @@
         "HAUSNR":7,
         "HAUSNRA":null,
         "ANZAHL_PLAETZE":"2",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
       }
     },
     {
@@ -1868,7 +1868,7 @@
         "HAUSNR":180,
         "HAUSNRA":null,
         "ANZAHL_PLAETZE":"1",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>3,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
       }
     },
     {
@@ -1931,7 +1931,7 @@
         "HAUSNR":28,
         "HAUSNRA":null,
         "ANZAHL_PLAETZE":"2",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>3,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
       }
     },
     {
@@ -1973,7 +1973,7 @@
         "HAUSNR":3,
         "HAUSNRA":null,
         "ANZAHL_PLAETZE":"1",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>3,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>3,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/>2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
       }
     },
     {
@@ -2078,7 +2078,7 @@
         "HAUSNR":17,
         "HAUSNRA":null,
         "ANZAHL_PLAETZE":"1",
-        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinkl<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
+        "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>rechtwinklig<\/i><br/>Breite <i>2,5m<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
       }
     }
   ],
