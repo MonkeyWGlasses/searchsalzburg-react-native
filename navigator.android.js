@@ -30,29 +30,33 @@ const styles = StyleSheet.create({
     backgroundColor: '#9E9E9E',
     height: 56,
   },
-  drawerItem:{
+  drawerView: {
+    flex: 1,
+    backgroundColor: '#fff',
+  },
+  drawerItem: {
     height: 48,
     marginLeft: 16,
     flexDirection: 'row',
     alignItems: 'center'
   },
-  drawerLink:{
+  drawerLink: {
     marginLeft: 15,
     fontSize: 15,
     textAlign: 'left',
   },
-  drawerHeader:{
+  drawerHeader: {
     height: 120,
     padding: 15,
     backgroundColor: '#088cff',
   },
-  drawerIcon:{
+  drawerIcon: {
     textAlign: 'left',
     marginRight: 20,
   },
 });
 
-
+//https://www.npmjs.com/package/react-native-android-statusbar
 class NavigatorAndroid extends React.Component {
 
   constructor (props) {
@@ -69,7 +73,7 @@ class NavigatorAndroid extends React.Component {
   render() {
 
     var navigationView = (
-       <View style={{flex: 1, backgroundColor: '#fff'}}>
+       <View style={styles.drawerView}>
          <View style={styles.drawerHeader}>
            <Image source={require('./images/ic_accessible.png')}/>
            <Text>Behindertenparkplatzsuche Salzburg</Text>
@@ -125,25 +129,16 @@ class NavigatorAndroid extends React.Component {
       case 'list':
         return (
           <List
-            name={route.name}
-            currentOS="android"
             parkingData={this.props.parkingData}
             onForward={(currentParkingSpace) => {
               this.setState({currentView: 'detail', title: currentParkingSpace.properties.ADRESSE, navIcon: require('./images/ic_arrow_back.png')})
-              var nextIndex = route.index + 1;
               navigator.push({
                 name: 'detail',
-                index: nextIndex,
+                index: 1,
                 currentParkingSpace: currentParkingSpace,
               });
             }}
-            onBack={() => {
-              if (route.index > 0) {
-                navigator.pop();
-              }
-            }}
-            />
-        )
+          />)
       case 'detail':
         return <Detail currentParkingSpace={route.currentParkingSpace}/>
       case 'map':
@@ -157,7 +152,6 @@ class NavigatorAndroid extends React.Component {
  onActionSelected() {
    if(this.state.currentView == 'detail')
    {
-     console.log('detail');
      this.setState({currentView: 'list', title: 'Listenansicht', navIcon: require('./images/menu.png')})
      this.refs['NAVIGATOR'].pop();
    } else {

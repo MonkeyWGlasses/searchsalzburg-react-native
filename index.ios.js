@@ -29,7 +29,6 @@ class searchsalzburg_new extends Component {
     return (
       <TabBarIOS selectedTab={this.state.selectedTab}>
           <TabBarIOS.Item
-            parkingData={this.state.data}
             selected={this.state.selectedTab === 'map'}
             icon={require('./images/map.png')}
             title="Map"

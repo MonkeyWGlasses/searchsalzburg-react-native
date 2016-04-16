@@ -5,14 +5,30 @@ var {
   StyleSheet,
   View,
   Text,
-  Component
+  Component,
+  TouchableOpacity,
+  Platform,
 } = React;
 
 var MapView = require('react-native-maps');
+var NavigationButton = require('./navigationButton');
 
 var styles = StyleSheet.create({
   map: {
     flex: 1,
+  },
+  container: {
+    flex: 1,
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  title:{
+    fontWeight: '500',
+    fontSize: 14,
+  },
+  left: {
+    marginRight: 7,
   }
 });
 
@@ -23,47 +39,40 @@ class Map extends Component {
     this.state = {
       markers: [],
       data: this.props.parkingData,
-      region: {},
+      region: {
+        longitude: 13.04,
+        latitude: 47.79,
+        longitudeDelta: 0.15,
+        latitudeDelta: 0.15
+      },
       followUserLocation:this.props.followUserLocation,
     };
     this.loadMarkers();
   }
 
   loadMarkers(){
-    if(Array.isArray(this.state.data)) {
-      this.state.data.map(function(parkingLot) {
-        this.state.markers.push( this._extractCoordinates(parkingLot))
-      }, this)
+    this.state.data.map(function(parkingLot) {
+      this.state.markers.push({
+        id: parkingLot.id,
+        latlng: {
+            latitude: parkingLot.geometry.coordinates[1],
+            longitude: parkingLot.geometry.coordinates[0]
+        },
+        title: parkingLot.properties.ADRESSE,
+        description: 'Anzahl: ' + parkingLot.properties.ANZAHL_PLAETZE,
+      });
+    }, this)
+
+    if(this.state.data.length == 1){
       this.state.region = {
-        longitude: 13.04,
-        latitude: 47.79,
-        longitudeDelta: 0.15,
-        latitudeDelta: 0.15,
-      };
-    } else {
-      var coordinates = this._extractCoordinates(this.state.data);
-      this.state.markers.push(coordinates)
-      this.state.region = {
-        longitude: coordinates.latlng.longitude,
-        latitude: coordinates.latlng.latitude + 0.001,
+        longitude: this.state.markers[0].latlng.longitude,
+        latitude: this.state.markers[0].latlng.latitude,
         longitudeDelta: 0.007,
         latitudeDelta: 0.007,
-      };
+      }
     }
   }
 
-  _extractCoordinates(parkingLot){
-    return({
-      id: parkingLot.id,
-      latlng:
-        {
-          latitude: parkingLot.geometry.coordinates[1],
-          longitude: parkingLot.geometry.coordinates[0],
-        },
-      title: parkingLot.properties.ADRESSE,
-      description: 'Anzahl: ' + parkingLot.properties.ANZAHL_PLAETZE,
-      })
-    }
 
     render() {
       return (
@@ -75,10 +84,22 @@ class Map extends Component {
           {this.state.markers.map(marker => (
             <MapView.Marker
               key={marker.id}
-              coordinate={marker.latlng}
-              title={marker.title}
-              description={marker.description}
-              />
+              coordinate={marker.latlng}>
+              <MapView.Callout>
+                <View style={styles.container}>
+                  <View style={styles.left}>
+                    <Text style={styles.title}>{marker.title}</Text>
+                    <Text>{marker.description}</Text>
+                  </View>
+                  <View>
+                    {(() => { if(Platform.OS === 'ios') {
+                        return <NavigationButton coordinates={marker.latlng}/>
+                        }
+                    })()}
+                  </View>
+                </View>
+              </MapView.Callout>
+              </MapView.Marker>
           ))}
         </MapView>
       );

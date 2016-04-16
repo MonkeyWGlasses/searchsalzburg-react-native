@@ -44,16 +44,12 @@ class Distance extends Component {
    navigator.geolocation.getCurrentPosition(
      (position) => {
        var initialPosition = position;
-       var distance = geolib.getDistance(position.coords,this.state.targetPositon)
+       var distance = geolib.getDistance(position.coords, this.state.targetPositon)
        this.setState({ distance: distance})
     },
      (error) => console.log(error.message),
      {enableHighAccuracy: true, timeout: 20000, maximumAge: 1000}
    );
-  }
-
-  calculateDistance() {
-    return geolib.getDistance(this.state.initialPosition.coords,this.state.targetPositon)
   }
 
   render() {

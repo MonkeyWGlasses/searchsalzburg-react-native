@@ -12,10 +12,6 @@ var {
   TouchableHighlight
 } = React;
 
-
-// var TableView = require('react-native-tableview');
-// var Section = TableView.Section;
-// var Item = TableView.Item;
 var detail = require('./detail');
 var Distance = require('./distance');
 
@@ -57,11 +53,8 @@ class List extends React.Component{
   constructor (props) {
       var ds = new ListView.DataSource({rowHasChanged: (r1, r2) => r1 !== r2});
       super(props);
-      this.renderRow = this.renderRow.bind(this);
       this.state = {
         dataSource: ds.cloneWithRows(this.props.parkingData),
-        currentIndex: 0,
-        currentOS: this.props.currentOS,
       }
   }
 
@@ -69,7 +62,7 @@ class List extends React.Component{
     return (
       <ListView
       dataSource={this.state.dataSource}
-      renderRow={this.renderRow}
+      renderRow={ this.renderRow.bind(this) }
       />
     );
   }

@@ -10,9 +10,12 @@ var {
   ListView,
   Image,
   MapView,
+  Platform
 } = React;
 
 var Map = require('./map');
+var NavigationButton = require('./navigationButton');
+
 
 var styles = StyleSheet.create({
   container: {
@@ -20,7 +23,7 @@ var styles = StyleSheet.create({
     backgroundColor: '#FFFFFF',
   },
   map: {
-    flex: 1.7
+    flex: 1.5
   },
   details: {
     flex: 1,
@@ -29,6 +32,7 @@ var styles = StyleSheet.create({
   item: {
     flexDirection: 'row',
     marginTop: 5,
+    alignSelf: 'stretch',
   },
   headline: {
     fontSize: 12,
@@ -50,6 +54,11 @@ var styles = StyleSheet.create({
     fontWeight: '100',
     color: '#383838',
   },
+  navAndroidButton: {
+    position: 'absolute',
+    top: 55,
+    right: 12,
+  }
 
   });
 
@@ -59,30 +68,48 @@ class Detail extends React.Component{
       super(props);
       this.state = {
         details: {},
+        coordinates: {
+          latitude: this.props.currentParkingSpace.geometry.coordinates[1],
+          longitude: this.props.currentParkingSpace.geometry.coordinates[0]
+        },
       };
       this.parseHtmlDetails(this.props.currentParkingSpace.properties.ANMERKUNG_HTML)
   }
 
   parseHtmlDetails(string){
-    var results = string.match(/<i>(.*?)(?:<\/i>)/g)
 
-    var regEx = /(<i>|<\/i>)/g
-    if(results != null && results.length == 5){
-      this.state.details = {
-        orientation: results[0].replace(regEx,''),
-        width: results[1].replace(regEx,''),
-        distance: results[3].replace(regEx,''),
-        eurokey: results[4].replace(regEx,''),
-        count: this.props.currentParkingSpace.properties.ANZAHL_PLAETZE,
-      }
+    var results = string.match(/<i>(.*?)<\/i>/g)
+
+    if(results != null){
+      results.map((val,index) => {
+        results[index] = val.replace(/<\/?i>/g,'');
+      });
+    } else {
+      results = []
     }
+
+    this.state.details = {
+      orientation: results[0] || '-',
+      width: results[1] || '-',
+      distance: results[3] || '-',
+      eurokey: results[4] || '-',
+      count: this.props.currentParkingSpace.properties.ANZAHL_PLAETZE,
+    }
+
   }
 
   render() {
     return (
       <View style={styles.container}>
         <View style={styles.map}>
-          <Map parkingData={this.props.currentParkingSpace} followUserLocation={false}/>
+          <Map parkingData={[this.props.currentParkingSpace]} followUserLocation={false}/>
+          {(()=>{
+            if(Platform.OS === "android"){
+              return(<View style={styles.navAndroidButton}>
+              <NavigationButton coordinates={ this.state.coordinates }/>
+            </View>)
+          }
+          })()}
         </View>
         <View style={styles.details}>
           <Text style={styles.headline}>ANZAHL</Text>

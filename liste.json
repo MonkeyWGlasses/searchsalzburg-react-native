@@ -781,27 +781,6 @@
     },
     {
       "type":"Feature",
-      "id":"behindertenstellplatz.28525",
-      "geometry":{
-        "type":"Point",
-        "coordinates":[
-          13.026858517524118,
-          47.81269059446201
-        ]
-      },
-      "geometry_name":"GEOMETRIE",
-      "properties":{
-        "description":"Behindertenparkplatz",
-        "ADRESSE":"Schumacherstraße 10",
-        "STRASSE_ID":740,
-        "HAUSNR":10,
-        "HAUSNRA":null,
-        "ANZAHL_PLAETZE":"3 nicht ausgeschildert (abgeschafft)",
-        "ANMERKUNG_HTML":"nichts vorhanden"
-      }
-    },
-    {
-      "type":"Feature",
       "id":"behindertenstellplatz.28568",
       "geometry":{
         "type":"Point",
@@ -924,27 +903,6 @@
         "HAUSNRA":null,
         "ANZAHL_PLAETZE":"2",
         "ANMERKUNG_HTML":"Lage(Schräg, Rechtwinkelig, Parallel) <i>parallel<\/i><br/>Breite <i>n.markiert<\/i><br/>Längsgefälle(>6%)-Quergefälle(>2%) <i><6%/<2%<\/i><br/>Entfernung direkt-Umweg <i>0m<\/i><br/>Euroschlüssel <i>nein<\/i><br>"
-      }
-    },
-    {
-      "type":"Feature",
-      "id":"behindertenstellplatz.28753",
-      "geometry":{
-        "type":"Point",
-        "coordinates":[
-          13.06289055098382,
-          47.78851395665931
-        ]
-      },
-      "geometry_name":"GEOMETRIE",
-      "properties":{
-        "description":"Behindertenparkplatz",
-        "ADRESSE":"Michael-Pacher-Straße 25",
-        "STRASSE_ID":541,
-        "HAUSNR":25,
-        "HAUSNRA":null,
-        "ANZAHL_PLAETZE":"1, nicht existent",
-        "ANMERKUNG_HTML":"nichts vorhanden"
       }
     },
     {

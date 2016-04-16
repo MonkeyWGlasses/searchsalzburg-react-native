@@ -8,19 +8,11 @@ import React, {
   Component,
   StyleSheet,
   View,
-  DrawerLayoutAndroid,
-  ProgressBarAndroid,
-  ToolbarAndroid,
-  Text,
-  TouchableOpacity,
-  TouchableHighlight,
-  Image
+  Text
 } from 'react-native';
 
 var data = require('./liste.json')
-var Map = require('./map')
 var Navigator = require('./navigator');
-var Imprint = require('./imprint');
 
 
 const styles = StyleSheet.create({

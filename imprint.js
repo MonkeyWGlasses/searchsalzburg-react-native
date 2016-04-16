@@ -12,6 +12,8 @@ var {
   TouchableHighlight
 } = React;
 
+var NavigationButton = require('./navigationButton');
+
 var styles = StyleSheet.create({
   headline: {
     fontSize: 35,
