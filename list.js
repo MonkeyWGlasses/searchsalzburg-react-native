@@ -20,26 +20,33 @@ var styles = StyleSheet.create({
     height: 50,
     flexDirection: 'row',
     alignItems: 'center',
+    padding: 8,
   },
   left:{
-    flex: 2,
+    flex: 10,
   },
   right:{
-    flex: 1,
+    flex: 2,
     marginRight: 10,
+  },
+  arrow:{
+    flex: 1,
+    opacity: 0.2,
+  },
+  separator: {
+    height: 0.5,
+    backgroundColor: '#CCCCCC',
+    marginLeft: 8,
   },
   title: {
     fontFamily: 'Helvetica',
     fontWeight: '100',
     fontSize: 14,
-    marginLeft: 8,
-    marginTop: 10,
   },
   subtitle: {
     fontFamily: 'Helvetica',
     fontWeight: '100',
     fontSize: 11,
-    marginLeft: 8,
     marginTop: 2,
   },
   listView: {
@@ -62,7 +69,8 @@ class List extends React.Component{
     return (
       <ListView
       dataSource={this.state.dataSource}
-      renderRow={ this.renderRow.bind(this) }
+      renderRow={this.renderRow.bind(this)}
+      renderSeparator={(sectionID, rowID) => <View key={`${sectionID}-${rowID}`} style={styles.separator} />}
       />
     );
   }
@@ -77,6 +85,9 @@ class List extends React.Component{
           </View>
           <View style={styles.right}>
             <Distance position={rowData.geometry.coordinates}/>
+          </View>
+          <View style={styles.arrow}>
+            <Image source={require('./images/ic_chevron_right.png')}/>
           </View>
         </View>
       </TouchableHighlight>
