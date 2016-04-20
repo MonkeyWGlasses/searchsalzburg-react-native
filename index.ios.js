@@ -37,7 +37,7 @@ class searchsalzburg_new extends Component {
                     selectedTab: 'map',
                 });
             }}>
-            <Map parkingData={this.state.parkingData} followUserLocation={true}/>
+            <Map parkingData={this.state.parkingData} showUserLocation={true}/>
           </TabBarIOS.Item>
           <TabBarIOS.Item
             selected={this.state.selectedTab === 'list'}

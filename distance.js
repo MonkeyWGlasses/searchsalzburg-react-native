@@ -50,6 +50,11 @@ class Distance extends Component {
      (error) => console.log(error.message),
      {enableHighAccuracy: true, timeout: 20000, maximumAge: 1000}
    );
+
+   this.watchID = navigator.geolocation.watchPosition((position) => {
+      var distance = geolib.getDistance(position.coords, this.state.targetPositon)
+      this.setState({ distance: distance})
+    });
   }
 
   render() {
@@ -57,6 +62,8 @@ class Distance extends Component {
     return (<Text style={styles.distance}>{distance} km</Text>);
   }
 }
+
+Distance.watchID = null
 
 
 module.exports = Distance;

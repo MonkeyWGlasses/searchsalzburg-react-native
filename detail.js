@@ -102,7 +102,7 @@ class Detail extends React.Component{
     return (
       <View style={styles.container}>
         <View style={styles.map}>
-          <Map parkingData={[this.props.currentParkingSpace]} followUserLocation={false}/>
+          <Map parkingData={[this.props.currentParkingSpace]} showUserLocation={false}/>
           {(()=>{
             if(Platform.OS === "android"){
               return(<View style={styles.navAndroidButton}>

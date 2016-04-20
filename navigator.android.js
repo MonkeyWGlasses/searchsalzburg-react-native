@@ -142,7 +142,7 @@ class NavigatorAndroid extends React.Component {
       case 'detail':
         return <Detail currentParkingSpace={route.currentParkingSpace}/>
       case 'map':
-        return  <Map parkingData={this.state.parkingData} followUserLocation={true}/>
+        return  <Map parkingData={this.state.parkingData} showUserLocation={true}/>
       case 'imprint':
         return  <Imprint/>
     }

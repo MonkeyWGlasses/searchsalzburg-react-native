@@ -39,13 +39,6 @@ class Map extends Component {
     this.state = {
       markers: [],
       data: this.props.parkingData,
-      region: {
-        longitude: 13.04,
-        latitude: 47.79,
-        longitudeDelta: 0.15,
-        latitudeDelta: 0.15
-      },
-      followUserLocation:this.props.followUserLocation,
     };
     this.loadMarkers();
   }
@@ -63,24 +56,17 @@ class Map extends Component {
       });
     }, this)
 
-    if(this.state.data.length == 1){
-      this.state.region = {
-        longitude: this.state.markers[0].latlng.longitude,
-        latitude: this.state.markers[0].latlng.latitude,
-        longitudeDelta: 0.007,
-        latitudeDelta: 0.007,
-      }
-    }
   }
-
+  componentDidMount (){
+    this.refs['MAP'].fitToElements(false)
+  }
 
     render() {
       return (
         <MapView
+          ref='MAP'
           style={styles.map}
-          region={this.state.region}
-          showsUserLocation={true}
-          followUserLocation={this.state.followUserLocation}>
+          showsUserLocation={this.props.showUserLocation}>
           {this.state.markers.map(marker => (
             <MapView.Marker
               key={marker.id}
